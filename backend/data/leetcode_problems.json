@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+    "solution": "Use a hash map to store complements and their indices for O(n) solution.",
+    "hints": ["Use a hash map", "Store complement values", "Check if complement exists"],
+    "tags": ["Array", "Hash Table"],
+    "companies": ["Amazon", "Google", "Microsoft"],
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)",
+    "motivation": "🎯 Perfect starting point! Master this fundamental pattern and you'll solve hundreds of similar problems!"
+  },
+  {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "description": "Add two numbers represented as linked lists in reverse order.",
+    "solution": "Traverse both lists simultaneously, handling carry values.",
+    "hints": ["Handle carry values", "Create new nodes", "Consider different lengths"],
+    "tags": ["Linked List", "Math", "Recursion"],
+    "companies": ["Microsoft", "Amazon", "Apple"],
+    "time_complexity": "O(max(m,n))",
+    "space_complexity": "O(max(m,n))",
+    "motivation": "🔗 Linked lists are everywhere in interviews! This problem builds essential pointer manipulation skills!"
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "description": "Find the length of the longest substring without repeating characters.",
+    "solution": "Use sliding window technique with a hash set to track characters.",
+    "hints": ["Sliding window", "Use hash set", "Two pointers"],
+    "tags": ["Hash Table", "String", "Sliding Window"],
+    "companies": ["Amazon", "Microsoft", "Facebook"],
+    "time_complexity": "O(n)",
+    "space_complexity": "O(min(m,n))",
+    "motivation": "🌟 Sliding window technique is a game changer! Master this and unlock dozens of string problems!"
+  },
+  {
+    "id": 4,
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "description": "Find the median of two sorted arrays in O(log(m+n)) time.",
+    "solution": "Use binary search to partition arrays such that left half ≤ right half.",
+    "hints": ["Binary search", "Partition arrays", "Ensure left ≤ right"],
+    "tags": ["Array", "Binary Search", "Divide and Conquer"],
+    "companies": ["Google", "Microsoft", "Apple"],
+    "time_complexity": "O(log(min(m,n)))",
+    "space_complexity": "O(1)",
+    "motivation": "🚀 This is a challenging problem that showcases advanced binary search! You're ready for the big leagues!"
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "description": "Find the longest palindromic substring in a string.",
+    "solution": "Expand around centers or use dynamic programming approach.",
+    "hints": ["Expand around centers", "Consider odd/even length palindromes", "Dynamic programming"],
+    "tags": ["String", "Dynamic Programming"],
+    "companies": ["Amazon", "Microsoft", "Apple"],
+    "time_complexity": "O(n²)",
+    "space_complexity": "O(1)",
+    "motivation": "🎭 Palindromes are beautiful patterns! This problem introduces you to the elegant world of dynamic programming!"
+  }
+]

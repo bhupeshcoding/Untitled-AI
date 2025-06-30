@@ -1,0 +1,55 @@
+[
+  {
+    "type": "quote",
+    "content": "Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown.",
+    "category": "motivation",
+    "author": "Robin Sharma"
+  },
+  {
+    "type": "quote",
+    "content": "The only way to learn programming is by writing programs.",
+    "category": "learning",
+    "author": "Dennis Ritchie"
+  },
+  {
+    "type": "tip",
+    "content": "Break down complex problems into smaller, manageable pieces. Solve one piece at a time.",
+    "category": "problem_solving"
+  },
+  {
+    "type": "tip",
+    "content": "Practice coding every day, even if it's just for 30 minutes. Consistency beats intensity.",
+    "category": "practice"
+  },
+  {
+    "type": "achievement",
+    "content": "🎉 Congratulations! You've solved your first problem. The journey of a thousand algorithms begins with a single solution!",
+    "category": "milestone"
+  },
+  {
+    "type": "encouragement",
+    "content": "Stuck on a problem? That's not failure, that's learning in action! Every 'bug' is a step closer to mastery.",
+    "category": "debugging"
+  },
+  {
+    "type": "quote",
+    "content": "Code is like humor. When you have to explain it, it's bad.",
+    "category": "code_quality",
+    "author": "Cory House"
+  },
+  {
+    "type": "tip",
+    "content": "Read other people's code to learn different approaches and coding styles. GitHub is your library!",
+    "category": "learning"
+  },
+  {
+    "type": "motivation",
+    "content": "🚀 You're not just learning to code, you're learning to think like a problem solver!",
+    "category": "mindset"
+  },
+  {
+    "type": "tip",
+    "content": "Test your code with edge cases: empty inputs, single elements, maximum constraints.",
+    "category": "testing"
+  }
+]
