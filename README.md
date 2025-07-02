@@ -263,6 +263,9 @@ Whether you're:
 
 *Netlify AI - Where every developer's journey matters*
 
+<a href="https://www.netlify.com/compose/web-ai/">web-ai</a>
+
 [🚀 Get Started](https://your-netlify-url.netlify.app) • [📖 Documentation](./docs) • [🤝 Contribute](./CONTRIBUTING.md) • [💬 Community](https://github.com/your-repo/discussions)
+
 
 </div>
