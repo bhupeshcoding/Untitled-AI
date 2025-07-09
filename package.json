@@ -21,7 +21,7 @@
     "file-saver": "^2.0.5",
     "html2canvas": "^1.4.1",
     "jspdf": "^3.0.1",
-    "lucide-react": "^0.344.0",
+    "lucide-react": "^0.516.0",
     "multer": "^2.0.1",
     "pdf-parse": "^1.1.1",
     "pdfjs-dist": "^4.10.38",
