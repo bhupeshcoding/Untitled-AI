@@ -1,4 +1,4 @@
-# 🌍 Netlify AI - Empowering Global Developers
+# 🌍 Untitled AI - Empowering Global Developers
 
 > **Mission**: Supporting everyone's coding journey to make the world better through technology
 
