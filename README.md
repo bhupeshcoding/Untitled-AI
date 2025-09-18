@@ -17,7 +17,7 @@ A powerful, accessible AI-powered coding companion designed to help developers w
 
 ## 🎯 Our Mission
 
-We believe that **every developer can make a difference in the world**. Netlify AI is built to:
+We believe that **every developer can make a difference in the world**. Untitled-AI is built to:
 
 - 🌟 **Democratize Learning**: Make high-quality coding education accessible to everyone
 - 🚀 **Accelerate Growth**: Help developers learn faster and more effectively
@@ -133,7 +133,7 @@ Choose from different AI personalities optimized for specific learning goals:
 ## 🌟 Real-World Impact Stories
 
 ### For Students 📚
-- **Algorithm Mastery**: "Netlify AI helped me understand dynamic programming patterns that seemed impossible before!"
+- **Algorithm Mastery**: "Untitled-AI helped me understand dynamic programming patterns that seemed impossible before!"
 - **Interview Success**: "The step-by-step explanations prepared me for my dream job at a top tech company"
 - **Confidence Building**: "I went from struggling with basic loops to solving complex problems confidently"
 
@@ -189,7 +189,7 @@ We welcome contributions from developers worldwide! Here's how to get involved:
 - **🐛 Report Bugs**: Help us improve the experience for everyone
 - **💡 Suggest Features**: Share ideas for new capabilities
 - **📖 Improve Documentation**: Make it easier for others to contribute
-- **🌍 Translate**: Help make Netlify AI accessible in more languages
+- **🌍 Translate**: Help make Untitled-AI accessible in more languages
 - **📢 Share**: Tell other developers about the project
 
 ### Development Guidelines
@@ -253,7 +253,7 @@ Whether you're:
 - 👨‍🏫 An educator inspiring the next generation
 - 🌍 Someone who wants to make a positive impact through technology
 
-**Netlify AI is here to support your journey.**
+**Untitled-AI is here to support your journey.**
 
 ---
 
@@ -261,7 +261,7 @@ Whether you're:
 
 **Built with ❤️ for the global coding community**
 
-*Netlify AI - Where every developer's journey matters*
+*Untitled-AI - Where every developer's journey matters*
 
 <a href="https://www.netlify.com/compose/web-ai/">web-ai</a>
 
